@@ -1,0 +1,72 @@
+    2  cd thecmdchallenge/
+    3  pwd
+    4  ls -a
+    6  ls -S
+    7  cd small-name/
+    8  ls
+    9  cd bigger-name-than-before/
+   11  cd omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/
+   13  cd this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/
+   15  cat trophy.txt 
+   16  cd ..
+   17  ls
+   18  cd funcode/
+   19  ls -l *.js*
+   21  cd the-most-funny/
+   23  mkdir not-that-funny
+   29  cd ..
+   31  cd boringfolder/
+   32  ls
+   34  cd event-more-boring/
+   36  cd i-can-believe-how-boring/
+   38  cd the-ulrimate-boring-inception/
+   42  cp the-mostboring-text.txt /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny
+   43  cd ..
+   44  ls
+   45  cd funcode/
+   46  ls
+   47  cd the-most-funny/
+   48  ls
+   49  mv the-mostboring-text.txt  lol.txt
+   50  ls
+   51  cd ..
+   52  ls
+   53  cd funcode/
+   54  ls
+   56  mv kids.jpg images/hello
+   88  cd small-name
+   90  rm -rf 
+   91  ls
+   92  cd ..
+   93  ls
+   94  rmdir small-name/
+   95  ls
+   96  find the-ultimate-joke.txt
+   97  ls
+   98  cat the-ultimate-joke.txt
+   99  ls
+  100  find . -name the-ultimate-joke.txt
+  101  cd ./funcode/the-most-funny/lol
+  102  ls
+  103  cat the-ultimate-joke.txt 
+  104  cd ..
+  105  cd..
+  106  cd ..
+  107  ls
+  108  cd boringfolder/
+  109  ls
+  110  rm -rf
+  111  ls
+  112  cd ..
+  113  cd boringfolder/
+  114  ls
+  115  rm -rf 
+  116  ls
+  117  rm 
+  118  rm -r
+  119  cd ..
+  120  rm -r boringfolder/
+  121  ls
+  122  cd kamehameha/
+  123  ls
+  124  nano dragon-ball-jokes.md 
